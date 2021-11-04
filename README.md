@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+Created a calorie calculator application with react for functionality and styled the app by using CSS. Used function based components and react hooks to create my project. I made an API call from Spoonacular to retrieve the nutritional information and populated the page with calories, fats, protein, and carbohydrates. Gave each nutritional item an id to properly use the map function. Libraries I used was react-router-dom for dynamic routing, react-dom to create the dom, and uuid to give the items random id’s., 
+
 ## Available Scripts
 
 In the project directory, you can run:
